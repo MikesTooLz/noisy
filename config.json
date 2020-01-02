@@ -1,7 +1,7 @@
 {
-    "max_depth": 25,
-    "min_sleep": 30,
-    "max_sleep": 60,
+    "max_depth": 50,
+    "min_sleep": 1,
+    "max_sleep": 5,
     "timeout": false,
     "root_urls": [
         "https://fonts.googleapis.com",
@@ -103,7 +103,10 @@
         "https://ebay.com",
         "https://bbc.com",
         "https://ibm.com",
-        "https://ted.com"
+        "https://ted.com",
+        "https://imore.com",
+        "https://twit.tv",
+        "https://pgl.yoyo.org/random/?numwords=6"
     ],
     "blacklisted_urls": [
         "https://t.co",
