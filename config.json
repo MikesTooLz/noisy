@@ -106,7 +106,8 @@
         "https://ted.com",
         "https://imore.com",
         "https://twit.tv",
-        "https://pgl.yoyo.org/random/?numwords=6"
+        "https://pgl.yoyo.org/random/?numwords=6",
+        "https://www.ask.com"
     ],
     "blacklisted_urls": [
         "https://t.co",
